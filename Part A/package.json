@@ -1,0 +1,26 @@
+{
+  "name": "part-a",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@datastructures-js/priority-queue": "^6.3.2",
+    "apache-arrow": "^19.0.1",
+    "csv-parse": "^5.6.0",
+    "csv-parser": "^3.2.0",
+    "fast-csv": "^5.0.2",
+    "heap-js": "^2.6.0",
+    "min-heap": "^0.2.3",
+    "moment": "^2.30.1",
+    "parquet": "^0.0.0",
+    "parquetjs": "^0.11.2",
+    "prompt-sync": "^4.2.0",
+    "streams": "^2.0.0",
+    "xlsx": "^0.18.5"
+  }
+}
